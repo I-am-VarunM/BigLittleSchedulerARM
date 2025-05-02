@@ -1,0 +1,562 @@
+[System] Initialized system with Global scheduling scheduler scheme
+[System] Simulation starting
+     Epoch 1      Core 0      Core 1      Core 2      Core 3      Core 4      Core 5      Core 6      Core 7
+           1           I           I           I           I           I           I           I           I
+           2       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4       Pid 5       Pid 6       Pid 7
+           3       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4       Pid 5       Pid 6       Pid 7
+           4       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4       Pid 5       Pid 6       Pid 7
+           5       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4       Pid 5       Pid 6       Pid 7
+           6       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4       Pid 5       Pid 6           I
+           7       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4       Pid 5       Pid 6           I
+           8       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4           I           I           I
+           9       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          10       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          11       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          12       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          13       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          14       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          15       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          16       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          17       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+          18       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          19       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          20       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          21       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          22           I       Pid 1           I       Pid 3           I           I           I           I
+          23           I       Pid 1           I       Pid 3           I           I           I           I
+          24           I       Pid 1           I       Pid 3           I           I           I           I
+          25           I       Pid 1           I       Pid 3           I           I           I           I
+          26           I       Pid 1           I       Pid 3           I           I           I           I
+          27           I       Pid 1           I       Pid 3           I           I           I           I
+          28           I       Pid 1           I       Pid 3           I           I           I           I
+          29           I       Pid 1           I       Pid 3           I           I           I           I
+          30           I       Pid 1           I       Pid 3           I           I           I           I
+          31           I       Pid 1           I       Pid 3           I           I           I           I
+          32           I       Pid 1           I       Pid 3           I           I           I           I
+          33           I       Pid 1           I       Pid 3           I           I           I           I
+          34           I       Pid 1           I           I           I           I           I           I
+          35           I       Pid 1           I           I           I           I           I           I
+          36           I       Pid 1           I           I           I           I           I           I
+          37           I       Pid 1           I           I           I           I           I           I
+          38           I           I           I           I           I           I           I           I
+          39           I           I           I           I           I           I           I           I
+          40           I           I           I           I           I           I           I           I
+          41           I           I           I           I           I           I           I           I
+          42           I           I           I           I           I           I           I           I
+          43           I           I           I           I           I           I           I           I
+          44           I           I           I           I           I           I           I           I
+          45           I           I           I           I           I           I           I           I
+          46           I           I           I           I           I           I           I       Pid 7
+          47           I           I           I           I           I           I           I       Pid 7
+          48           I           I           I           I           I           I           I       Pid 7
+          49           I           I           I           I           I           I           I       Pid 7
+          50           I           I           I           I       Pid 4       Pid 5           I       Pid 7
+          51           I           I           I           I       Pid 4       Pid 5       Pid 6       Pid 7
+          52           I           I           I           I       Pid 4       Pid 5       Pid 6           I
+          53           I           I           I           I       Pid 4       Pid 5       Pid 6           I
+          54           I           I           I           I       Pid 4           I       Pid 6           I
+          55           I           I           I           I       Pid 4           I       Pid 6           I
+          56           I           I           I           I       Pid 4           I       Pid 6           I
+          57           I           I           I           I       Pid 4           I       Pid 6           I
+          58           I           I           I           I       Pid 4           I       Pid 6           I
+          59           I           I           I           I           I           I           I           I
+          60           I           I           I           I           I           I           I           I
+          61           I           I       Pid 2           I           I           I           I           I
+          62           I           I       Pid 2           I           I           I           I           I
+          63           I           I       Pid 2           I           I           I           I           I
+          64           I           I       Pid 2           I           I           I           I           I
+          65           I           I       Pid 2           I           I           I           I           I
+          66           I           I       Pid 2           I           I           I           I           I
+          67           I           I       Pid 2           I           I           I           I           I
+          68           I           I       Pid 2           I           I           I           I           I
+          69           I           I       Pid 2           I           I           I           I           I
+          70       Pid 0           I       Pid 2           I           I           I           I           I
+          71       Pid 0           I       Pid 2           I           I           I           I           I
+          72       Pid 0           I       Pid 2           I           I           I           I           I
+          73       Pid 0           I       Pid 2           I           I           I           I           I
+          74       Pid 0           I       Pid 2           I           I           I           I           I
+          75       Pid 0           I       Pid 2           I           I           I           I           I
+          76       Pid 0           I       Pid 2           I           I           I           I           I
+          77       Pid 0           I           I       Pid 3           I           I           I           I
+          78       Pid 0           I           I       Pid 3           I           I           I           I
+          79       Pid 0           I           I       Pid 3           I           I           I           I
+          80       Pid 0           I           I       Pid 3           I           I           I           I
+          81       Pid 0           I           I       Pid 3           I           I           I           I
+          82       Pid 0           I           I       Pid 3           I           I           I           I
+          83       Pid 0           I           I       Pid 3           I           I           I           I
+          84       Pid 0           I           I       Pid 3           I           I           I           I
+          85       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          86       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          87       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          88       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          89       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          90       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          91       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          92       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          93       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+          94           I       Pid 1           I       Pid 3           I           I           I           I
+          95           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+          96           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+          97           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+          98           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+          99           I       Pid 1           I       Pid 3           I           I           I           I
+         100           I       Pid 1           I       Pid 3           I           I           I           I
+     Epoch 2      Core 0      Core 1      Core 2      Core 3      Core 4      Core 5      Core 6      Core 7
+         101           I       Pid 1           I       Pid 3           I       Pid 5           I           I
+         102           I       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         103           I       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         104           I       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         105           I           I           I           I       Pid 4       Pid 5           I           I
+         106           I           I           I           I       Pid 4       Pid 5           I           I
+         107           I           I           I           I       Pid 4       Pid 5       Pid 6           I
+         108           I           I           I           I           I       Pid 5       Pid 6           I
+         109           I           I           I           I           I       Pid 5       Pid 6           I
+         110           I           I           I           I           I           I       Pid 6           I
+         111           I           I           I           I           I           I       Pid 6           I
+         112           I           I           I           I           I           I       Pid 6           I
+         113           I           I           I           I           I           I       Pid 6           I
+         114           I           I           I           I           I           I       Pid 6           I
+         115           I           I           I           I           I           I       Pid 6           I
+         116           I           I           I           I           I           I           I           I
+         117           I           I           I           I           I           I           I           I
+         118           I           I           I           I           I           I           I           I
+         119           I           I           I           I           I           I           I           I
+         120           I           I       Pid 2           I           I           I           I           I
+         121           I           I       Pid 2           I           I           I           I           I
+         122           I           I       Pid 2           I           I           I           I           I
+         123           I           I       Pid 2           I           I           I           I           I
+         124           I           I       Pid 2           I           I           I           I           I
+         125           I           I       Pid 2           I           I           I           I           I
+         126           I           I       Pid 2           I           I           I           I           I
+         127           I           I       Pid 2           I           I           I           I           I
+         128           I           I       Pid 2           I           I           I           I           I
+         129           I           I       Pid 2           I           I           I           I           I
+         130           I           I       Pid 2           I           I           I           I           I
+         131           I           I       Pid 2           I           I           I           I           I
+         132           I           I       Pid 2           I           I           I           I           I
+         133           I           I       Pid 2           I           I           I           I           I
+         134           I           I       Pid 2           I           I           I           I           I
+         135           I           I       Pid 2           I           I           I           I           I
+         136           I           I       Pid 2           I           I           I           I           I
+         137           I           I       Pid 2           I           I           I           I           I
+         138           I           I       Pid 2           I           I           I           I           I
+         139           I           I       Pid 2           I           I           I           I           I
+         140           I           I       Pid 2           I           I           I           I           I
+         141       Pid 0           I       Pid 2           I           I           I           I           I
+         142       Pid 0           I       Pid 2           I           I           I           I           I
+         143       Pid 0           I       Pid 2           I           I           I           I           I
+         144       Pid 0           I       Pid 2           I           I           I           I       Pid 7
+         145       Pid 0           I       Pid 2           I           I           I           I       Pid 7
+         146       Pid 0           I       Pid 2           I           I           I           I       Pid 7
+         147       Pid 0           I       Pid 2           I           I           I           I       Pid 7
+         148       Pid 0           I       Pid 2           I           I           I           I       Pid 7
+         149       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         150       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         151       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         152       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         153       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         154       Pid 0       Pid 1       Pid 2           I       Pid 4           I           I           I
+         155       Pid 0       Pid 1       Pid 2       Pid 3       Pid 4           I           I           I
+         156       Pid 0       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         157       Pid 0       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         158       Pid 0       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         159       Pid 0       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         160       Pid 0       Pid 1           I       Pid 3           I       Pid 5           I           I
+         161       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         162       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         163       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         164       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         165       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         166       Pid 0       Pid 1           I       Pid 3           I           I       Pid 6           I
+         167       Pid 0       Pid 1           I       Pid 3           I           I       Pid 6           I
+         168       Pid 0       Pid 1           I       Pid 3           I           I       Pid 6           I
+         169           I       Pid 1           I       Pid 3           I           I       Pid 6           I
+         170           I       Pid 1           I       Pid 3           I           I       Pid 6           I
+         171           I       Pid 1           I       Pid 3           I           I       Pid 6           I
+         172           I       Pid 1           I       Pid 3           I           I       Pid 6           I
+         173           I       Pid 1           I       Pid 3           I           I       Pid 6           I
+         174           I       Pid 1           I       Pid 3           I           I       Pid 6           I
+         175           I       Pid 1           I       Pid 3           I           I           I           I
+         176           I       Pid 1           I       Pid 3           I           I           I           I
+         177           I           I           I       Pid 3           I           I           I           I
+         178           I           I           I       Pid 3           I           I           I           I
+         179           I           I           I       Pid 3           I           I           I           I
+         180           I           I           I       Pid 3           I           I           I           I
+         181           I           I           I       Pid 3           I           I           I           I
+         182           I           I           I       Pid 3           I           I           I           I
+         183           I           I           I           I           I           I           I           I
+         184           I           I           I           I           I           I           I           I
+         185           I           I           I           I           I           I           I           I
+         186           I           I           I           I           I           I           I           I
+         187           I           I           I           I           I           I           I           I
+         188           I           I           I           I           I           I           I           I
+         189           I           I           I           I           I           I           I           I
+         190           I           I           I           I           I           I           I           I
+         191           I           I           I           I           I           I           I           I
+         192           I           I           I           I           I           I           I           I
+         193           I           I           I           I           I           I           I       Pid 7
+         194           I           I           I           I           I           I           I       Pid 7
+         195           I           I           I           I           I           I           I       Pid 7
+         196           I           I           I           I           I           I           I       Pid 7
+         197           I           I           I           I           I           I           I       Pid 7
+         198           I           I           I           I           I           I           I           I
+         199           I           I           I           I           I           I           I           I
+         200           I           I           I           I       Pid 4           I           I           I
+     Epoch 3      Core 0      Core 1      Core 2      Core 3      Core 4      Core 5      Core 6      Core 7
+         201           I           I           I           I       Pid 4       Pid 5           I           I
+         202           I           I       Pid 2           I       Pid 4       Pid 5           I           I
+         203           I           I       Pid 2           I       Pid 4       Pid 5           I           I
+         204           I           I       Pid 2           I       Pid 4       Pid 5           I           I
+         205           I           I       Pid 2           I       Pid 4       Pid 5           I           I
+         206           I           I       Pid 2           I       Pid 4           I           I           I
+         207           I           I       Pid 2           I       Pid 4           I           I           I
+         208           I           I       Pid 2           I           I           I           I           I
+         209           I           I       Pid 2           I           I           I           I           I
+         210       Pid 0           I       Pid 2           I           I           I           I           I
+         211       Pid 0           I       Pid 2           I           I           I           I           I
+         212       Pid 0           I       Pid 2           I           I           I           I           I
+         213       Pid 0           I       Pid 2           I           I           I           I           I
+         214       Pid 0           I       Pid 2           I           I           I           I           I
+         215       Pid 0           I       Pid 2           I           I           I           I           I
+         216       Pid 0           I       Pid 2           I           I           I           I           I
+         217       Pid 0           I       Pid 2           I           I           I           I           I
+         218       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         219       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         220       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         221       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         222       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         223       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         224       Pid 0       Pid 1       Pid 2           I           I           I           I           I
+         225       Pid 0       Pid 1       Pid 2           I           I           I       Pid 6           I
+         226       Pid 0       Pid 1       Pid 2           I           I           I       Pid 6           I
+         227       Pid 0       Pid 1       Pid 2           I           I           I       Pid 6           I
+         228       Pid 0       Pid 1       Pid 2           I           I           I       Pid 6           I
+         229       Pid 0       Pid 1       Pid 2           I           I           I       Pid 6           I
+         230       Pid 0       Pid 1           I           I           I           I           I           I
+         231       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         232       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         233       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         234       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         235       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         236       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         237       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         238           I       Pid 1           I       Pid 3           I           I           I           I
+         239           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+         240           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+         241           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+         242           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+         243           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+         244           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+         245           I       Pid 1           I       Pid 3           I           I           I       Pid 7
+         246           I           I           I       Pid 3           I           I           I       Pid 7
+         247           I           I           I           I           I           I           I           I
+         248           I           I           I           I           I           I           I           I
+         249           I           I           I           I           I           I           I           I
+         250           I           I           I           I           I           I           I           I
+         251           I           I           I           I           I           I           I           I
+         252           I           I           I           I           I           I           I           I
+         253           I           I           I           I           I           I           I           I
+         254           I           I           I           I           I           I           I           I
+         255           I           I           I           I           I           I           I           I
+         256           I           I           I           I           I       Pid 5           I           I
+         257           I           I           I           I       Pid 4       Pid 5           I           I
+         258           I           I           I           I       Pid 4       Pid 5           I           I
+         259           I           I           I           I       Pid 4       Pid 5           I           I
+         260           I           I           I           I       Pid 4       Pid 5           I           I
+         261           I           I           I           I       Pid 4       Pid 5           I           I
+         262           I           I           I           I       Pid 4       Pid 5           I           I
+         263           I           I           I           I       Pid 4       Pid 5           I           I
+         264           I           I           I           I       Pid 4           I           I           I
+         265           I           I           I           I       Pid 4           I           I           I
+         266           I           I           I           I           I           I           I           I
+         267           I           I           I           I           I           I           I           I
+         268           I           I           I           I           I           I           I           I
+         269           I           I           I           I           I           I           I           I
+         270           I           I           I           I           I           I           I           I
+         271           I           I           I           I           I           I           I           I
+         272           I           I           I           I           I           I           I           I
+         273           I           I           I           I           I           I           I           I
+         274           I           I           I           I           I           I       Pid 6           I
+         275           I           I           I           I           I           I       Pid 6           I
+         276           I           I       Pid 2           I           I           I       Pid 6           I
+         277           I           I       Pid 2           I           I           I       Pid 6           I
+         278           I           I       Pid 2           I           I           I       Pid 6           I
+         279           I           I       Pid 2           I           I           I       Pid 6           I
+         280           I           I       Pid 2           I           I           I       Pid 6           I
+         281           I           I       Pid 2           I           I           I           I           I
+         282           I           I       Pid 2           I           I           I           I           I
+         283           I           I       Pid 2           I           I           I           I           I
+         284       Pid 0           I       Pid 2           I           I           I           I           I
+         285       Pid 0           I       Pid 2           I           I           I           I           I
+         286       Pid 0           I       Pid 2           I           I           I           I           I
+         287       Pid 0           I       Pid 2           I           I           I           I           I
+         288       Pid 0           I       Pid 2           I           I           I           I           I
+         289       Pid 0           I       Pid 2           I           I           I           I           I
+         290       Pid 0           I       Pid 2           I           I           I           I           I
+         291       Pid 0           I       Pid 2           I           I           I           I       Pid 7
+         292       Pid 0           I       Pid 2       Pid 3           I           I           I       Pid 7
+         293       Pid 0           I       Pid 2       Pid 3           I           I           I       Pid 7
+         294       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I       Pid 7
+         295       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I       Pid 7
+         296       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I       Pid 7
+         297       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I       Pid 7
+         298       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I       Pid 7
+         299       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I       Pid 7
+         300       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+     Epoch 4      Core 0      Core 1      Core 2      Core 3      Core 4      Core 5      Core 6      Core 7
+         301       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+         302       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+         303       Pid 0       Pid 1       Pid 2       Pid 3           I           I           I           I
+         304       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         305       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         306       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         307       Pid 0       Pid 1           I       Pid 3           I       Pid 5           I           I
+         308       Pid 0       Pid 1           I       Pid 3           I       Pid 5           I           I
+         309       Pid 0       Pid 1           I       Pid 3           I       Pid 5           I           I
+         310       Pid 0       Pid 1           I       Pid 3           I       Pid 5           I           I
+         311       Pid 0       Pid 1           I       Pid 3       Pid 4       Pid 5           I           I
+         312       Pid 0       Pid 1           I       Pid 3       Pid 4           I           I           I
+         313       Pid 0       Pid 1           I       Pid 3       Pid 4           I           I           I
+         314       Pid 0           I           I       Pid 3       Pid 4           I           I           I
+         315       Pid 0           I           I       Pid 3       Pid 4           I           I           I
+         316           I           I           I       Pid 3           I           I           I           I
+         317           I           I           I       Pid 3           I           I           I           I
+         318           I           I           I       Pid 3           I           I           I           I
+         319           I           I           I       Pid 3           I           I           I           I
+         320           I           I           I       Pid 3           I           I           I           I
+         321           I           I           I       Pid 3           I           I           I           I
+         322           I           I           I       Pid 3           I           I           I           I
+         323           I           I           I       Pid 3           I           I       Pid 6           I
+         324           I           I           I       Pid 3           I           I       Pid 6           I
+         325           I           I           I       Pid 3           I           I       Pid 6           I
+         326           I           I           I       Pid 3           I           I       Pid 6           I
+         327           I           I           I       Pid 3           I           I       Pid 6           I
+         328           I           I           I           I           I           I       Pid 6           I
+         329           I           I           I           I           I           I       Pid 6           I
+         330           I           I           I           I           I           I       Pid 6           I
+         331           I           I           I           I           I           I       Pid 6           I
+         332           I           I           I           I           I           I           I           I
+         333           I           I           I           I           I           I           I           I
+         334           I           I           I           I           I           I           I           I
+         335           I           I           I           I           I           I           I           I
+         336           I           I           I           I           I           I           I           I
+         337           I           I           I           I           I           I           I           I
+         338           I           I           I           I           I           I           I           I
+         339           I           I           I           I           I           I           I           I
+         340           I           I           I           I           I           I           I           I
+         341           I           I           I           I           I           I           I           I
+         342           I           I           I           I           I           I           I           I
+         343           I           I           I           I           I           I           I           I
+         344           I           I           I           I           I           I           I           I
+         345           I           I           I           I           I           I           I           I
+         346           I           I           I           I           I           I           I           I
+         347           I           I       Pid 2           I           I           I           I           I
+         348           I           I       Pid 2           I           I           I           I           I
+         349           I           I       Pid 2           I           I           I           I           I
+         350           I           I       Pid 2           I           I           I           I           I
+         351           I           I       Pid 2           I           I           I           I           I
+         352           I           I       Pid 2           I           I           I           I           I
+         353           I           I       Pid 2           I           I           I           I           I
+         354           I           I       Pid 2           I           I           I           I           I
+         355           I           I       Pid 2           I           I           I           I           I
+         356           I           I       Pid 2           I           I           I           I           I
+         357           I           I       Pid 2           I           I           I           I           I
+         358           I       Pid 1       Pid 2           I           I           I           I           I
+         359           I       Pid 1       Pid 2           I           I           I           I           I
+         360           I       Pid 1       Pid 2           I           I           I           I           I
+         361           I       Pid 1       Pid 2           I           I           I           I           I
+         362           I       Pid 1       Pid 2           I           I           I           I           I
+         363           I       Pid 1           I           I           I           I           I           I
+         364       Pid 0       Pid 1           I           I           I           I           I           I
+         365       Pid 0       Pid 1           I           I           I           I           I           I
+         366       Pid 0       Pid 1           I           I           I           I           I           I
+         367       Pid 0       Pid 1           I           I           I           I           I           I
+         368       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         369       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         370       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         371       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         372       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         373       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         374       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         375       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         376       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         377       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         378       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         379       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         380           I       Pid 1           I       Pid 3           I           I           I           I
+         381           I       Pid 1           I       Pid 3           I           I           I           I
+         382           I           I           I       Pid 3           I           I           I           I
+         383           I           I           I       Pid 3           I           I           I           I
+         384           I           I           I       Pid 3           I           I           I           I
+         385           I           I           I       Pid 3           I           I           I           I
+         386           I           I           I       Pid 3           I           I           I           I
+         387           I           I           I       Pid 3           I           I           I           I
+         388           I           I           I       Pid 3           I           I           I           I
+         389           I           I           I       Pid 3           I           I           I           I
+         390           I           I           I       Pid 3           I           I           I           I
+         391           I           I           I       Pid 3           I           I           I           I
+         392           I           I           I       Pid 3           I           I           I           I
+         393           I           I           I       Pid 3           I           I           I           I
+         394           I           I           I       Pid 3           I           I           I           I
+         395           I           I           I       Pid 3           I           I           I           I
+         396           I           I           I       Pid 3           I           I           I           I
+         397           I           I           I       Pid 3           I           I           I           I
+         398           I           I           I       Pid 3           I           I           I           I
+         399           I           I           I       Pid 3           I           I           I           I
+         400           I           I           I           I           I           I           I           I
+     Epoch 5      Core 0      Core 1      Core 2      Core 3      Core 4      Core 5      Core 6      Core 7
+         401           I           I           I           I           I           I           I           I
+         402           I           I           I           I           I           I           I           I
+         403           I           I       Pid 2           I           I           I           I           I
+         404           I           I       Pid 2           I           I           I           I           I
+         405           I           I       Pid 2           I           I           I           I           I
+         406           I           I       Pid 2           I           I           I           I           I
+         407           I           I       Pid 2           I           I           I           I           I
+         408           I           I       Pid 2           I           I           I           I           I
+         409           I           I       Pid 2           I           I           I           I           I
+         410           I           I       Pid 2           I           I           I           I           I
+         411           I           I       Pid 2           I           I           I           I           I
+         412           I           I       Pid 2           I           I           I           I           I
+         413           I           I       Pid 2           I           I           I           I           I
+         414           I           I       Pid 2           I           I           I           I           I
+         415           I           I       Pid 2           I           I           I           I           I
+         416           I           I       Pid 2           I           I           I           I           I
+         417           I           I       Pid 2           I           I           I           I           I
+         418           I           I       Pid 2           I           I           I           I           I
+         419           I           I       Pid 2           I           I           I           I           I
+         420           I           I       Pid 2           I           I           I           I           I
+         421           I           I       Pid 2           I           I           I           I           I
+         422           I           I       Pid 2           I           I           I           I           I
+         423           I           I       Pid 2           I           I           I           I           I
+         424           I           I       Pid 2           I           I           I           I           I
+         425           I           I       Pid 2           I           I           I           I           I
+         426           I           I       Pid 2           I           I           I           I           I
+         427           I           I           I           I           I           I           I           I
+         428       Pid 0       Pid 1           I           I           I           I           I           I
+         429       Pid 0       Pid 1           I           I           I           I           I           I
+         430       Pid 0       Pid 1           I           I           I           I           I           I
+         431       Pid 0       Pid 1           I           I           I           I           I           I
+         432       Pid 0       Pid 1           I           I           I           I           I           I
+         433       Pid 0       Pid 1           I           I           I           I           I           I
+         434       Pid 0       Pid 1           I           I           I           I           I           I
+         435       Pid 0       Pid 1           I           I           I           I           I           I
+         436       Pid 0       Pid 1           I           I           I           I           I           I
+         437       Pid 0       Pid 1           I           I           I           I           I           I
+         438       Pid 0       Pid 1           I           I           I           I           I           I
+         439       Pid 0       Pid 1           I           I           I           I           I           I
+         440       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         441       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         442       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         443       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         444       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         445       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         446       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         447       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         448       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         449       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         450       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         451       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         452       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         453       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         454       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         455       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         456       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         457       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         458       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         459       Pid 0       Pid 1           I       Pid 3           I           I           I           I
+         460           I       Pid 1           I       Pid 3           I           I           I           I
+         461           I       Pid 1           I       Pid 3           I           I           I           I
+         462           I       Pid 1           I       Pid 3           I           I           I           I
+         463           I       Pid 1           I       Pid 3           I           I           I           I
+         464           I           I           I       Pid 3           I           I           I           I
+         465           I           I           I       Pid 3           I           I           I           I
+         466           I           I           I       Pid 3           I           I           I           I
+         467           I           I           I       Pid 3           I           I           I           I
+         468           I           I           I           I           I           I           I           I
+         469           I           I           I           I           I           I           I           I
+         470           I           I           I           I           I           I           I           I
+         471           I           I           I           I           I           I           I           I
+         472           I           I           I           I           I           I           I           I
+         473           I           I           I           I           I           I           I           I
+         474           I           I           I           I           I           I           I           I
+         475           I           I           I           I           I           I           I           I
+         476           I           I           I           I           I           I           I           I
+         477           I           I           I           I           I           I           I           I
+         478           I           I           I           I           I           I           I           I
+         479           I           I           I           I           I           I           I           I
+         480           I           I           I           I           I           I           I           I
+         481           I           I           I           I           I           I           I           I
+         482           I           I           I           I           I           I           I           I
+         483           I           I           I           I           I           I           I           I
+         484           I           I           I           I           I           I           I           I
+         485           I           I           I           I           I           I           I           I
+         486           I           I           I           I           I           I           I           I
+         487           I           I           I           I           I           I           I           I
+         488           I           I           I           I           I           I           I           I
+         489           I           I           I           I           I           I           I           I
+         490           I           I           I           I           I           I           I           I
+         491           I           I           I           I           I           I           I           I
+         492           I           I           I           I           I           I           I           I
+         493           I           I           I           I           I           I           I           I
+         494           I           I           I           I           I           I           I           I
+         495           I           I           I           I           I           I           I           I
+         496           I           I           I           I           I           I           I           I
+         497           I           I           I           I           I           I           I           I
+         498           I           I           I           I           I           I           I           I
+         499           I           I           I           I           I           I           I           I
+         500           I           I           I           I           I           I           I           I
+     Epoch 6      Core 0      Core 1      Core 2      Core 3      Core 4      Core 5      Core 6      Core 7
+         501           I           I           I           I           I           I           I           I
+         502           I           I           I           I           I           I           I           I
+         503           I           I           I           I           I           I           I           I
+         504           I           I           I           I           I           I           I           I
+         505           I           I           I           I           I           I           I           I
+         506           I           I           I           I           I           I           I           I
+         507           I           I           I           I           I           I           I           I
+         508           I           I           I           I           I           I           I           I
+         509           I           I           I           I           I           I           I           I
+         510           I           I           I           I           I           I           I           I
+         511           I           I           I           I           I           I           I           I
+         512           I           I           I           I           I           I           I           I
+         513           I           I           I           I           I           I           I           I
+         514           I           I           I           I           I           I           I           I
+         515           I           I           I           I           I           I           I           I
+         516           I           I           I           I           I           I           I           I
+         517           I           I           I           I           I           I           I           I
+[System] Simulation completed at 518 ms
+[System] Total Time   : 518
+[System] Total Epochs : 5
+[Core 0] Total time powered on          :        517 ms
+[Core 0] Total time powered on and idle :        337 ms
+[Core 0] Total energy consumed          :        697 mJ 
+[Core 1] Total time powered on          :        517 ms
+[Core 1] Total time powered on and idle :        325 ms
+[Core 1] Total energy consumed          :        709 mJ 
+[Core 2] Total time powered on          :        517 ms
+[Core 2] Total time powered on and idle :        353 ms
+[Core 2] Total energy consumed          :        681 mJ 
+[Core 3] Total time powered on          :        517 ms
+[Core 3] Total time powered on and idle :        317 ms
+[Core 3] Total energy consumed          :        717 mJ 
+[Core 4] Total time powered on          :        517 ms
+[Core 4] Total time powered on and idle :        467 ms
+[Core 4] Total energy consumed          :       1234 mJ 
+[Core 5] Total time powered on          :        517 ms
+[Core 5] Total time powered on and idle :        475 ms
+[Core 5] Total energy consumed          :       1202 mJ 
+[Core 6] Total time powered on          :        517 ms
+[Core 6] Total time powered on and idle :        464 ms
+[Core 6] Total energy consumed          :       1246 mJ 
+[Core 7] Total time powered on          :        517 ms
+[Core 7] Total time powered on and idle :        476 ms
+[Core 7] Total energy consumed          :       1198 mJ 
+[Process 0] Turn around time            :        506 ms
+[Process 1] Turn around time            :        507 ms
+[Process 2] Turn around time            :        473 ms
+[Process 3] Turn around time            :        517 ms
+[Process 4] Turn around time            :        355 ms
+[Process 5] Turn around time            :        358 ms
+[Process 6] Turn around time            :        371 ms
+[Process 7] Turn around time            :        346 ms
+[System] Avg Turn Around Time : 429 ms
+[System] Energy Delay Product : 3980312
